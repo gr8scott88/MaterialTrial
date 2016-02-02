@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/scrolltest_1"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Scroll Test 1"/>
+
+    <Button
+        android:id="@+id/scrolltest_generated"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Generated Scroll Activity"/>
+
+    <Button
+        android:id="@+id/scrolltest_generated_2"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="Generated Scroll Activity 2"/>
+</LinearLayout>
